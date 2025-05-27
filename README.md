@@ -17,7 +17,7 @@ const qoo = {
   currentFocus: ["Full-Stack Development", "Web Animation", "Vue.js", "Express.js"],
   learningPath: "職訓局轉職課程 → 自主學習 → 實戰專案",
   motivation: "結合興趣培養可持續成長的第二專長",
-  futureGoal: "全端開發 + 動畫互動體驗"
+  futureGoal: "全端開發學習 + 網頁動畫開發"
 };
 ```
 
