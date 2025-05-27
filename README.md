@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## 🎯 關於我
 
 ```typescript
@@ -21,6 +19,9 @@ const qoo = {
 };
 ```
 
+<br>
+<br>
+
 
 ## 💡 技術筆記網站 (搭建中)
 
@@ -30,6 +31,8 @@ const qoo = {
 
 *基於 VitePress 建立的技術知識庫*
 
+<br>
+<br>
 
 
 ## 🛠 技術棧
@@ -62,6 +65,9 @@ const qoo = {
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<br>
+<br>
+
 ## 🎨 個人專案
 
 ### 🛒 [QianTa 電商管理系統](https://github.com/Qoo143/QianTa)
@@ -78,7 +84,8 @@ const qoo = {
 
 👉 [點擊查看詳細說明](https://github.com/Qoo143/QianTa)
 
----
+<br>
+<br>
 
 ## 🌱 學習路程
 
@@ -89,14 +96,13 @@ const qoo = {
 **2025年4月~2025年5月** - 完成 QianTa 電商專案，利用 AI 輔助開發
 
 **2025年5月~現在** - 重新學習扎實基礎能力(了解原理)
-
+<br>
+<br>
 
 ## 📫 聯繫方式
 
 **Email**: wayne676803@gmail.com  
 **Location**: 台中, Taiwan
-
----
 
 <div align="center">
 
