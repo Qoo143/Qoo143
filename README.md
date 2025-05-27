@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 關於我
 
 ```typescript
 const qoo = {
@@ -21,7 +21,7 @@ const qoo = {
 };
 ```
 
-## 🛠 Tech Stack
+## 🛠 技術棧
 
 ### Frontend
 <p>
@@ -51,10 +51,10 @@ const qoo = {
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 🎨 Featured Projects
+## 🎨 個人專案
 
 ### 🛒 [QianTa 電商管理系統](https://github.com/Qoo143/QianTa)
-> **全端電商專案** | 轉職課程畢業作品
+> **全端電商專案** | 課程畢業作品
 
 <p>
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
@@ -69,7 +69,7 @@ const qoo = {
 
 ---
 
-## 🌱 Learning Journey
+## 🌱 學習路程
 
 **2024年12月** - 開始自學程式開發，從三件套基礎開始，後續選擇vue框架做持續學習 
 **2024年12月~2025年5月** - 參加台中職訓局全端開發課程，並持續自學，以實現功能為重點
@@ -77,7 +77,7 @@ const qoo = {
 **2025年5月~現在** - 重新學習扎實基礎能力(了解原理)
 
 
-## 📫 Contact
+## 📫 聯繫方式
 
 **Email**: wayne676803@gmail.com  
 **Location**: 台中, Taiwan
