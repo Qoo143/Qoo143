@@ -22,14 +22,23 @@ const qoo = {
 <br>
 <br>
 
+## 🎨 個人專案
 
-## 💡 技術筆記網站 (搭建中)
+### 🛒 [QianTa 電商管理系統](https://github.com/Qoo143/QianTa)
+> **全端電商專案** | 課程畢業作品
 
-在學習全端開發的過程中，我建立了一個專門記錄技術學習心得的網站，整理了從基礎到進階的各種開發知識。
+<p>
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-68A063?style=flat-square&logo=express&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+</p>
 
-🌐 **[前往我的技術筆記](https://qoo143.github.io/tech-note/)**
+完整的電商管理系統，包含前台購物體驗、後台管理功能、3D 商品展示與 GSAP 動畫效果。
 
-*基於 VitePress 建立的技術知識庫*
+👉 [點擊查看詳細說明](https://github.com/Qoo143/QianTa)
+
+
 
 <br>
 <br>
@@ -68,21 +77,13 @@ const qoo = {
 <br>
 <br>
 
-## 🎨 個人專案
+## 💡 技術筆記網站 (搭建中)
 
-### 🛒 [QianTa 電商管理系統](https://github.com/Qoo143/QianTa)
-> **全端電商專案** | 課程畢業作品
+在學習全端開發的過程中，我建立了一個專門記錄技術學習心得的網站，整理了從基礎到進階的各種開發知識。
 
-<p>
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-68A063?style=flat-square&logo=express&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
-</p>
+🌐 **[前往我的技術筆記](https://qoo143.github.io/tech-note/)**
 
-完整的電商管理系統，包含前台購物體驗、後台管理功能、3D 商品展示與 GSAP 動畫效果。
-
-👉 [點擊查看詳細說明](https://github.com/Qoo143/QianTa)
+*基於 VitePress 建立的技術知識庫*
 
 <br>
 <br>
